@@ -5,7 +5,7 @@
   "main": "upload-2.vue",
   "scripts": {
     "dev": "gulp",
-    "build": "cross-env NODE_ENV=production gulp b"
+    "build": "cross-env NODE_ENV=production gulp css"
   },
   "repository": {
     "type": "git",
